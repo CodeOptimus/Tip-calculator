@@ -28,6 +28,8 @@ function resetBtn() {
   billAmount.value = "";
   customTipAmount.value = "";
   splitCount.value = "";
+  serviceRatingSelect.value = "";
+  mealType.value = "";
 }
 
 
